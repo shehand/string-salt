@@ -1,0 +1,26 @@
+{
+  "name": "string-salt",
+  "version": "1.0.0",
+  "description": "A mechanism to salt strings when creating passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No test file specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehand/string-salt.git"
+  },
+  "keywords": [
+    "string",
+    "salt",
+    "salting",
+    "password",
+    "salting"
+  ],
+  "author": "Shehan Dhaleesha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shehand/string-salt/issues"
+  },
+  "homepage": "https://github.com/shehand/string-salt#readme"
+}
